@@ -1,0 +1,15 @@
+# Private files and folders
+.env
+/Data/
+/venv/
+__pycache__/
+*.data
+*.mp3
+*.html
+*.txt
+*.jpg
+*.png
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+tempCodeRunnerFile.py
